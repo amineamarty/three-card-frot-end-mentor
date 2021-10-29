@@ -1,2 +1,2 @@
-# three-card-frot-end-mentor
-three card using html and css
+# three_card_front_end_mentor
+three_card front end mentor
